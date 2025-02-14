@@ -1,0 +1,7 @@
+[project]
+name = "re-builder"
+version = "0.0.2"
+description = "Build GitHub Actions Runner images locally"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
