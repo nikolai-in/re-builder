@@ -4,17 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13d1206d-02bc-494b-a7d8-fdf661e86b5c" name="Changes" comment="feat✨: Add conventional commit config">
-      <change afterPath="$PROJECT_DIR$/conventionalcommit.json" afterDir="false" />
+    <list default="true" id="13d1206d-02bc-494b-a7d8-fdf661e86b5c" name="Changes" comment="chore🧹: Add &amp; clone github action runner repo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/runner-images" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -42,15 +49,15 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/tameddev/Downloads/idea-conventional-commit-0.24.0.zip",
+    "last_opened_file_path": "C:/Users/tameddev/Developer/fckrnd",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Errors",
+    "settings.editor.selected.configurable": "preferences.customizations",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,8 +82,34 @@
       <workItem from="1739780795815" duration="83000" />
       <workItem from="1739783545545" duration="169000" />
       <workItem from="1739783729471" duration="131000" />
-      <workItem from="1739783880974" duration="627000" />
+      <workItem from="1739783880974" duration="5291000" />
+      <workItem from="1739803978316" duration="822000" />
     </task>
+    <task id="LOCAL-00001" summary="feat✨: Add conventional commit config">
+      <option name="closed" value="true" />
+      <created>1739784531051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739784531051</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore🧹: Add whatever .idea configs">
+      <option name="closed" value="true" />
+      <created>1739784572871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739784572871</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore🧹: Add &amp; clone github action runner repo">
+      <option name="closed" value="true" />
+      <created>1739785076031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739785076031</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +128,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat✨: Add conventional commit config" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat✨: Add conventional commit config" />
+    <MESSAGE value="chore: Add whatever .idea configs" />
+    <MESSAGE value="chore: Add &amp; clone github action runner repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: Add &amp; clone github action runner repo" />
   </component>
 </project>
